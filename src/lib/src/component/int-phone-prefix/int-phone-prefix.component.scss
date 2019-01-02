@@ -29,7 +29,7 @@
 }
 
 .defaultCountry {
-  background:url('http://res.cloudinary.com/dvbuhh0bl/image/upload/c_scale,h_15,w_15/v1495279723/default_tmey2r.png') no-repeat;
+  background:url('../../assets/flags/default_tmey2r.png') no-repeat;
   display:inline-block;
   width:15px;
   height:15px;
@@ -57,7 +57,7 @@
   position: absolute;
   background-color: #f9f9f9;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   z-index: 1000;
 }
 
